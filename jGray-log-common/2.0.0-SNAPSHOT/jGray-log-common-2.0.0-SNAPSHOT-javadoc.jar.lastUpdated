@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 24 14:24:45 CST 2019
+http\://10.9.1.182\:9915/nexus/content/repositories/kayak-release/.error=
+http\://10.9.1.182\:9915/nexus/content/repositories/kayak-snapshot/.lastUpdated=1563949485478
+http\://10.9.1.182\:9915/nexus/content/repositories/central/.error=
+http\://10.9.1.182\:9915/nexus/content/repositories/kayak-release/.lastUpdated=1563949485440
+http\://10.9.1.182\:9915/nexus/content/repositories/kayak-snapshot/.error=
+http\://10.9.1.182\:9915/nexus/content/repositories/central/.lastUpdated=1563949485509

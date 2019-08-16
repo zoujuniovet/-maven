@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jul 26 17:00:37 CST 2019
+jGray-log-common-2.0.1-20190726.074435-1.jar>kayak-snapshot=
+jGray-log-common-2.0.1-SNAPSHOT.jar>=
+jGray-log-common-2.0.1-20190726.074435-1.pom>kayak-snapshot=
+jGray-log-common-2.0.1-SNAPSHOT.pom>=
+jGray-log-common-2.0.1-SNAPSHOT-sources.jar>=
